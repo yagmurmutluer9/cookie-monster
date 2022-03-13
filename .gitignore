@@ -1,0 +1,7 @@
+.env
+node_modules
+bower_components
+.idea
+*.iml
+dist/**/*
+yarn.lock
