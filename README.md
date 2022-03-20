@@ -14,6 +14,8 @@
 
 ⚽️ Write a blog to explain every detail 
 
+⚽️ build and publish pipeline will added
+
 ## ➡️ How to Contribute?
 
 🧩 Open a PR for your change
